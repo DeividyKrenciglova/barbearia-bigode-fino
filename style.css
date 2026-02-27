@@ -1,0 +1,68 @@
+body {
+    background-color: #22252e;
+}
+
+p {
+    color: white;
+}
+
+#benef {
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+#bigodefino {
+    color: aquamarine;
+}
+
+.principal {
+    background-color: #171924;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+#title {
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    padding-left: 20px;
+}
+
+.itens {
+    color: white;
+    font-size: 18px;
+    font-style: italic;
+}
+
+#banner {
+    width: 100%;
+}
+
+ul {
+    display: inline-block; /* alinhar pela linha de cima */
+    vertical-align: top; /* alinhar pelo topo */
+    width: 20%; /* largura */
+    margin-left: 5%;
+}
+
+img {
+    width: 50%;
+}
+
+.imagembeneficios {
+    margin-left: 50%;
+}
+
+#mark1 {
+    color: rgb(113, 201, 113);
+}
+
+.subtitle {
+    color: white;
+    text-align: center;
+}
+
+.centralized {
+    text-align: center;
+}
