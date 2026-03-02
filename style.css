@@ -37,6 +37,7 @@ p {
 
 #banner {
     width: 100%;
+    border-radius: 10px;
 }
 
 ul {
@@ -48,10 +49,12 @@ ul {
 
 img {
     width: 50%;
+    border-radius: 10px;
 }
 
 .imagembeneficios {
     margin-left: 50%;
+    border-radius: 10px;
 }
 
 #mark1 {
