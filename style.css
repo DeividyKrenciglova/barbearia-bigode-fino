@@ -58,9 +58,13 @@ img {
     color: rgb(113, 201, 113);
 }
 
-.subtitle {
+.subtitle1 {
     color: white;
     text-align: center;
+}
+
+.subtitle2 {
+    color: white;
 }
 
 .centralized {
