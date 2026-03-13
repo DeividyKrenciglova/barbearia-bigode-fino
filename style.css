@@ -1,71 +1,48 @@
-body {
-    background-color: #22252e;
+#banner {
+	width:100%;
+}
+
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+}
+
+.titulo-principal {
+	padding-left: 20px;
+}
+
+.titulo-centralizado {
+	text-align: center
 }
 
 p {
-    color: white;
+	text-align: center;
 }
 
-#benef {
-    color: white;
-    text-align: center;
-    padding: 20px;
+#missao {
+	font-size: 20px
 }
 
-#bigodefino {
-    color: aquamarine;
-}
-
-.principal {
-    background-color: #171924;
-    padding: 5px;
-    border-radius: 10px;
-}
-
-#title {
-    color: white;
-    text-align: center;
-    font-size: 32px;
-    padding-left: 20px;
+em strong {
+	color: #FF0000;
 }
 
 .itens {
-    color: white;
-    font-size: 18px;
-    font-style: italic;
+	font-style: italic
 }
 
-#banner {
-    width: 100%;
-    border-radius: 7px;
+.beneficios {
+	background: #FFFFFF;
+	padding: 20px;
 }
 
 ul {
-    display: inline-block; /* alinhar pela linha de cima */
-    vertical-align: top; /* alinhar pelo topo */
-    width: 20%; /* largura */
-    margin-left: 5%;
-}
-
-img {
-    width: 50%;
-    border-radius: 7px;
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
 }
 
 .imagembeneficios {
-    margin-left: 50%;
-    border-radius: 7px;
-}
-
-#mark1 {
-    color: rgb(113, 201, 113);
-}
-
-.subtitle {
-    color: white;
-    text-align: center;
-}
-
-.centralized {
-    text-align: center;
+	width: 50%;
 }
